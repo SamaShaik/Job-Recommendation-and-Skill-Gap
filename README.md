@@ -65,13 +65,16 @@ Used to match resume skills with job requirements.
 
 ## ▶️ How to Run the Project
 
+
 ### 🔙 Backend Setup
+
 ```bash
 cd backend
 pip install -r requirements.txt
 python app.py
-```bash
-### 🔜 Frontend Setup
+🔜 Frontend Setup
+bash
+Copy code
 cd frontend
 npm install
 npm run dev
