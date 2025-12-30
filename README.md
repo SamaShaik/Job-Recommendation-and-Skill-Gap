@@ -72,6 +72,7 @@ Used to match resume skills with job requirements.
 cd backend
 pip install -r requirements.txt
 python app.py
+```
 
 ### 🔜 Frontend Setup
 
