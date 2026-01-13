@@ -1,4 +1,4 @@
-# 🚀 SkillBridge
+# 🚀 Job Recommendation and Skill Gap Analysis
 
 An **AI-powered web application** designed to help users understand where they stand in their career journey.  
 The platform analyzes a user’s **resume** to recommend relevant **job roles** and identify **missing skills** required for specific target positions.
